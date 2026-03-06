@@ -44,4 +44,4 @@ def analyze_text(text: str):
         "char_count_without_spaces": char_without_spaces,
         "sentence_count": sentence_count,
         "top_words": top_words
-    }git add backend/app/analyzer.py
+    }
